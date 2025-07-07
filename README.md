@@ -21,16 +21,6 @@ To evaluate the impact of customer service performance on customer churn by:
 
 ---
 
-## 📊 Key Metrics
-
-- **Response Time** – Time taken to respond to a customer
-- **Call Duration** – Time spent on the call
-- **CSAT Score** – Customer satisfaction rating (1–10)
-- **Sentiment** – Very Positive to Very Negative
-- **SLA Compliance** – Percentage of responses within SLA
-
----
-
 ## 🔍 Hypotheses Tested
 
 1. **Higher response times reduce CSAT scores**
